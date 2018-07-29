@@ -3,38 +3,45 @@
             {
                 "category": "cuisines",
                 "tag":["China"],
+                "title":"Sichuan Food",
                 "text":"Sichuan cuisine is a style of Chinese cuisine originating from Sichuan Province. It has bold flavours, particularly the pungency and spiciness resulting from liberal use of garlic and chili peppers, as well as the unique flavour of Sichuan pepper.There are many local variations within Sichuan Province and the neighbouring Chongqing Municipality, which was part of Sichuan Province until 1997.Four sub-styles of Sichuan cuisine include Chongqing, Chengdu, Zigong and Buddhist vegetarian style."
             },
             {
                 "category": "cuisines",
-                "tag":["India"],
-                "text":"Rajasthani cuisine"
+                "tag":["America"],
+                "title":"Californian Dairy",
+                "text":"Rolling pastures and bright skies make for happy cows. The Golden State is the United States' #1 dairy producer, churning out tons of butter, milk, and, of course, ice cream each year. Better yet: 99% of California dairy farms are family owned!"
             },
         
             {
                 "category": "Self-Defense",
                 "tag":["Female"],
+                "title":"How to fight your own fight - Women",
                 "text":"Many self-protection classes teach you to react to an attacker's actions. This defensive thinking can make you hesitate ('What is he going to do to me?'), lose focus (waiting to get hurt makes most people freeze), and ultimately be one step behind the attacker. In a threatening situation, don't worry about what he's doing; make him worry about what you're doing. Here are some self-defense tips you could use- https://www.youtube.com/watch?v=j_YOvLi06-0"
             },
         
             {
                 "category": "Ethnicity",
-                "tag":["Caucasian"],
+                "tag":["India"],
+                "title":"Langages India Speaks",
                 "text":"India has 100 languages, the first language being Hindi"
             },
             {
                 "category": "Folklore",
-                "tag":["Indian"],
-                "text":"The folklore of India compasses the folklore of the nation of India and the Indian subcontinent. India is an ethnically and religiously diverse country. Given this diversity, it is difficult to generalize widely about the folklore of India as a unit.Although India is a Hindu-majority country, with more than three-fourths of the population identifying themselves as Hindus, there is no single, unified, and all-pervading concept of identity present in it."
+                "tag":["India"],
+                "title":"India's Folklore",
+                "text":"The folklore of India compasses the folklore of the nation of India and the Indian subcontinent. India is an ethnically and religiously diverse country. Given this diversity, it is difficult to generalize widely about the folklore of India as a unit. Although India is a Hindu-majority country, with more than three-fourths of the population identifying themselves as Hindus, there is no single, unified, and all-pervading concept of identity present in it."
             },
             {
                 "category": "festivals",
-                "tag":[""],
-                "text":"India has 100 languages, the first language being Hindi"
+                "tag":["France"],
+                "title":"Cirque de Demain, Paris",
+                "text":"Once a year, circus actors from the best circus schools in the world compete at the Circus of Tomorrow under the Big Top of the Cirque Phénix according to age groups and professions. The new, young talented discovered here will be the famous artists of tomorrow. The great crowds of spectators enjoy the animal trainers, clowns, acrobats and jugglers who perform in both traditional and modern acts. This is a marvellous experience for the whole family. The 39th festival took place from 1 to 4 January 2018."
             },
             {
                 "category": "Education",
                 "tag":["Frist-gen"],
+                "title":"About first-gen students",
                 "text":"Even when the opportunity to go to college exists, many students still face obstacles. Often first-generation students need to work to help support their family, or care for younger siblings. They may have been given limited information about college application and costs, or attended schools with fewer resources and less access to higher level math, science and AP courses. While 30% of all the nation’s college students are first-generation, 24% are both first-generation and low-income."
             }
         

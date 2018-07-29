@@ -1,7 +1,7 @@
 {
     "gender": ["male", "female", "other"],
     "ethnicity": ["Asian", "Arabian", "Caucasian", "Carribean"],
-    "country": ["America", "India", "Mexico", "China", "Korea"],
+    "country": ["America", "India", "Mexico", "China", "Korea","France"],
     "orientation": ["straight", "lesbian", "gay", "biseual", "transgender", "queer"],
     "disability": ["yes", "no"],
     "first-gen": ["yes", "no"]
