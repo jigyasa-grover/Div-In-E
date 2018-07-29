@@ -4,6 +4,7 @@
                 "category": "cuisines",
                 "tag":["China"],
                 "title":"Sichuan Food",
+                "image": "http://www.thatsmags.com/image/view/201801/Ben-Zhen-Sichuan-Cuisine-cover.jpg",
                 "text":"Sichuan cuisine is a style of Chinese cuisine originating from Sichuan Province. It has bold flavours, particularly the pungency and spiciness resulting from liberal use of garlic and chili peppers, as well as the unique flavour of Sichuan pepper.There are many local variations within Sichuan Province and the neighbouring Chongqing Municipality, which was part of Sichuan Province until 1997.Four sub-styles of Sichuan cuisine include Chongqing, Chengdu, Zigong and Buddhist vegetarian style."
             },
 
@@ -11,12 +12,14 @@
                 "category": "cuisines",
                 "tag":["Vietnam"],
                 "title": "Flavors of Vietnam",
+                "image": "https://www.saveur.com/sites/saveur.com/files/styles/2000_1x_/public/vietnamese-pantry_2000x1500-3.jpg?itok=0y4WmLRy&fc=50,50",
                 "text":"Vietnamese cuisine encompasses the foods and beverages of Vietnam, and features a combination of five fundamental tastes the overall meal. Common ingredients include fish sauce, shrimp paste, soy sauce, rice, fresh herbs, fruit and vegetables. Vietnamese recipes use lemongrass, ginger, mint, Vietnamese mint, long coriander, Saigon cinnamon, bird's eye chili, lime, and Thai basil leaves.Traditional Vietnamese cooking is greatly admired for its fresh ingredients, minimal use of dairy and oil, complementary textures, and reliance on herbs and vegetables. With the balance between fresh herbs and meats and a selective use of spices to reach a fine taste, Vietnamese food is considered one of the healthiest cuisines worldwide"
             },
             {
                 "category": "cuisines",
                 "tag":["America"],
                 "title":"Californian Dairy",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDzKomKj8r2aqW279FKUWvVxTx9cc38FoKlPSOJJgCWXhlwC6U",
                 "text":"Rolling pastures and bright skies make for happy cows. The Golden State is the United States' #1 dairy producer, churning out tons of butter, milk, and, of course, ice cream each year. Better yet: 99% of California dairy farms are family owned!"
             },
         
@@ -24,6 +27,7 @@
                 "category": "Self-Defense",
                 "tag":["Female"],
                 "title":"How to fight your own fight - Women",
+                "image": "http://www.sdsct.com/wp-content/uploads/2016/10/sdsct-kickboxing.jpg?quality=100.3015061321280",
                 "text":"Many self-protection classes teach you to react to an attacker's actions. This defensive thinking can make you hesitate ('What is he going to do to me?'), lose focus (waiting to get hurt makes most people freeze), and ultimately be one step behind the attacker. In a threatening situation, don't worry about what he's doing; make him worry about what you're doing. Here are some self-defense tips you could use- https://www.youtube.com/watch?v=j_YOvLi06-0"
             },
         
@@ -31,6 +35,7 @@
                 "category": "Ethnicity",
                 "tag":["Korean", "Filipino"],
                 "title": "Finding myself",
+                "image": "",
                 "text":"“Being Korean and Filipino, it’s hard for me to properly identify with both races. My parents were born in their respective countries, but they both grew up in the US. My dad doesn’t speak Korean at home, and my mom doesn’t speak Ilonggo. Our parents never taught my brothers or me these languages because they’re both fluent in English, so there was no need to. Not being able to speak either of these languages distances myself from the two cultures even further. Communicating with my grandma on my dad’s side is difficult, since she knows English but doesn’t speak it well. Unfortunately, this language barrier makes me feel less Korean. I know that languages I can or cannot speak don’t define who I am, but then again, language is a huge part of culture and can give you a sense of belonging, wherever you are. Visiting my dad’s side of the family, I never felt isolated, but I never felt like I truly belonged. I’m still juggling with these ideas in my head, but I’m fortunate to where I feel accepted in both my family and community.” — Isabel Suh, 9"
             },
 

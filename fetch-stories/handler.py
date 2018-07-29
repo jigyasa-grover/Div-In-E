@@ -12,8 +12,7 @@ def handle(req):
     query = os.environ['Http_Query']
     params = parse_qs(query)
     category = params["category"][0]
-    #category = "cuisines"
-    print("Category:", type(category))
+
     person_tags = ["India"]
 
     dirname = os.path.dirname(__file__)
@@ -37,9 +36,6 @@ def handle(req):
 
         if keep_story:
             result_story.append(story)
-
-
-    #print(result_story)
 
     return json.dumps(result_story)
             
