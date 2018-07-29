@@ -14,3 +14,7 @@ functions:
     lang: python3
     handler: ./fetch-stories
     image: fetch-stories
+  find-groups:
+    lang: python3
+    handler: ./find-groups
+    image: find-groups
