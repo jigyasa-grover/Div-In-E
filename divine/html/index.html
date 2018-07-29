@@ -1,10 +1,23 @@
 <!DOCTYPE html>
 <html lang='en'>
+<meta name="google-signin-scope" content="profile email">
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+<meta name="google-signin-client_id" content="28624379157-br2d6pns50c4v3cojpt9b1t808guhcat.apps.googleusercontent.com">
+<script>
+function onSignIn(googleUser) {
+  var profile = googleUser.getBasicProfile();
+  console.log('ID: ' + profile.getId()); // Do not send to your backend! Use an ID token instead.
+  console.log('Name: ' + profile.getName());
+  console.log('Image URL: ' + profile.getImageUrl());
+  console.log('Email: ' + profile.getEmail()); // This is null if the 'email' scope is not present.
+}
+</script>
 <head>
   <meta charset='UTF-8'>
   <title>OpenFaaS</title>
 </head>
 <body>
   <h2>Here's a new page!</h2>
+  <div class="g-signin2" data-onsuccess="onSignIn"></div>
 </body>
 </html>
