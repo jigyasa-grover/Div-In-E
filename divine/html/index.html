@@ -25,11 +25,19 @@ function onSignIn(googleUser) {
 
     <h2>Facebook Sign-in</h2>
 
-    <div class="fb-login-button" data-max-rows="1" data-size="large" data-button-type="continue_with" data-show-faces="false" data-auto-logout-link="false" data-use-continue-as="true"></div>
+    <div class="fb-login-button" data-onlogin="getUserData" data-max-rows="1" data-size="large" data-button-type="continue_with" data-show-faces="false" data-auto-logout-link="false" data-use-continue-as="true"></div>
 
         <div id="fb-root"></div>
 
         <script>
+          function getUserData(fbUser) {
+              // window.location.reload();
+              console.log(fbUser);
+              FB.api('/me?fields=id,name,picture', function(response) {
+                 console.log(JSON.stringify(response));
+                 
+              });
+            }
             window.fbAsyncInit = function() {
               FB.init({
                 appId      : '1875671635823154',
