@@ -1,5 +1,6 @@
 import json
 import os
+from urllib.parse import parse_qs
 
 # filters stories to include person category and 
 # exclude person tags
@@ -8,7 +9,11 @@ def handle(req):
     Args:
         req (str): request body
     """
-    category = "cuisines"
+    query = os.environ['Http_Query']
+    params = parse_qs(query)
+    category = params["category"][0]
+    #category = "cuisines"
+    print("Category:", type(category))
     person_tags = ["India"]
 
     dirname = os.path.dirname(__file__)
