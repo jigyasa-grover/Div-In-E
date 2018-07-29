@@ -7,8 +7,9 @@
             },
             {
                 "category": "cuisines",
-                "tag":["India"],
-                "text":"Rajasthani cuisine"
+                "tag":["Vietnam"],
+                "title": "Flavors of Vietnam",
+                "text":"Vietnamese cuisine encompasses the foods and beverages of Vietnam, and features a combination of five fundamental tastes the overall meal. Common ingredients include fish sauce, shrimp paste, soy sauce, rice, fresh herbs, fruit and vegetables. Vietnamese recipes use lemongrass, ginger, mint, Vietnamese mint, long coriander, Saigon cinnamon, bird's eye chili, lime, and Thai basil leaves.Traditional Vietnamese cooking is greatly admired for its fresh ingredients, minimal use of dairy and oil, complementary textures, and reliance on herbs and vegetables. With the balance between fresh herbs and meats and a selective use of spices to reach a fine taste, Vietnamese food is considered one of the healthiest cuisines worldwide"
             },
         
             {
@@ -19,8 +20,9 @@
         
             {
                 "category": "Ethnicity",
-                "tag":["Caucasian"],
-                "text":"India has 100 languages, the first language being Hindi"
+                "tag":["Korean", "Filipino"],
+                "title": "Finding myself",
+                "text":"“Being Korean and Filipino, it’s hard for me to properly identify with both races. My parents were born in their respective countries, but they both grew up in the US. My dad doesn’t speak Korean at home, and my mom doesn’t speak Ilonggo. Our parents never taught my brothers or me these languages because they’re both fluent in English, so there was no need to. Not being able to speak either of these languages distances myself from the two cultures even further. Communicating with my grandma on my dad’s side is difficult, since she knows English but doesn’t speak it well. Unfortunately, this language barrier makes me feel less Korean. I know that languages I can or cannot speak don’t define who I am, but then again, language is a huge part of culture and can give you a sense of belonging, wherever you are. Visiting my dad’s side of the family, I never felt isolated, but I never felt like I truly belonged. I’m still juggling with these ideas in my head, but I’m fortunate to where I feel accepted in both my family and community.” — Isabel Suh, 9"
             },
             {
                 "category": "Folklore",
@@ -29,13 +31,15 @@
             },
             {
                 "category": "festivals",
-                "tag":[""],
-                "text":"India has 100 languages, the first language being Hindi"
+                "tag":["Brazil"],
+                "title": "Rio de Janeiro",
+                "text": "The Carnival in Rio de Janeiro is a festival held every year before Lent and considered the biggest carnival in the world with two million people per day on the streets. Dating back to 1723, it is celebrated in honour of the gods and to respect the great waters. The typical Rio carnival parade is filled with revelers, floats, and adornments from numerous samba schools which are located in Rio (more than 200 approximately, divided into five leagues/divisions). A samba school is composed of a collaboration of local neighbours that want to attend the carnival together, with some kind of regional, geographical and common background."
             },
             {
                 "category": "Education",
                 "tag":["Frist-gen"],
-                "text":"Even when the opportunity to go to college exists, many students still face obstacles. Often first-generation students need to work to help support their family, or care for younger siblings. They may have been given limited information about college application and costs, or attended schools with fewer resources and less access to higher level math, science and AP courses. While 30% of all the nation’s college students are first-generation, 24% are both first-generation and low-income."
+                "title": "Korean Goblins",
+                "text":"Amongst the most prolific of supernatural beings in Korean folklore is the dokkaebi. Translating dokkaebi into the English word “goblin” can lead to misconceptions because in European folklore, goblins have a demonic or evil element to them; whereas dokkaebi do not.  Dokkaebi are creatures with supernatural powers and skills and have both negative and positive characteristics; they generally take pleasure in making humans happy, but at times are known to bring misery.  The role of dokkaebi in Korean folklore can’t be overstated – let’s put it this way: dokkaebi is to Koreans as leprechauns are to the Irish. The first written story of dokkaebi appeared in the Samguk Yusa (Memorabilia of the Three Kingdoms) in the tale “Lady Dohwa and Bachelor Bihyeong” 도화녀 비형랑 which takes place during the Silla dynasty. This tale is considered to be the first documented narrative of dokkaebi."
             }
         
         ]
