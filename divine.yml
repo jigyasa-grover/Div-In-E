@@ -6,7 +6,11 @@ functions:
   divine:
     lang: python3
     handler: ./divine
-    image: jigyasagrover/divine
+    image: shilpi296/divine
     environment:
       content_type: text/html
 
+  fetch-stories:
+    lang: python3
+    handler: ./fetch-stories
+    image: fetch-stories
