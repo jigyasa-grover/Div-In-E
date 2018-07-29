@@ -3,7 +3,10 @@ provider:
   gateway: http://127.0.0.1:8080
 
 functions:
-  show-html:
+  divine:
     lang: python3
     handler: ./divine
     image: jigyasagrover/divine
+    environment:
+      content_type: text/html
+

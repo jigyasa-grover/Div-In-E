@@ -4,4 +4,6 @@ def handle(req):
         req (str): request body
     """
 
-    return req
+    html = '<html><h2>Hi, from your function!</h2></html>'
+
+    return html
