@@ -3,6 +3,8 @@
 <meta name="google-signin-scope" content="profile email">
 <script src="https://apis.google.com/js/platform.js" async defer></script>
 <meta name="google-signin-client_id" content="415744417637-4sotrp5shbnnf4kso8mkkijglbcqcbn5.apps.googleusercontent.com">
+<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+
 <script>
 function onSignIn(googleUser) {
   var profile = googleUser.getBasicProfile();
@@ -22,6 +24,7 @@ function onSignIn(googleUser) {
   <h2>Google sign-in</h2>
   <div class="g-signin2" data-onsuccess="onSignIn"></div>
 </body>
+<button type="button" class="btn btn-primary">Primary</button>
 
     <h2>Facebook Sign-in</h2>
 
