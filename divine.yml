@@ -22,3 +22,7 @@ functions:
     image: find-groups
     environment:
       content_type: application/json
+  fetch-polarity:
+    lang: python3
+    handler: ./fetch-polarity
+    image: fetch-polarity
