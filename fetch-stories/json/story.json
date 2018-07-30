@@ -5,15 +5,14 @@
                 "tag":["China"],
                 "title":"Sichuan Food",
                 "image": "http://www.thatsmags.com/image/view/201801/Ben-Zhen-Sichuan-Cuisine-cover.jpg",
-                "text":"Sichuan cuisine is a style of Chinese cuisine originating from Sichuan Province. It has bold flavours, particularly the pungency and spiciness resulting from liberal use of garlic and chili peppers, as well as the unique flavour of Sichuan pepper.There are many local variations within Sichuan Province and the neighbouring Chongqing Municipality, which was part of Sichuan Province until 1997.Four sub-styles of Sichuan cuisine include Chongqing, Chengdu, Zigong and Buddhist vegetarian style."
+                "text":"Sichuan cuisine is a style of Chinese cuisine originating from Sichuan Province. It has bold flavours, particularly the pungency and spiciness resulting from liberal use of garlic and chili peppers, as well as the unique flavour of Sichuan pepper .It has many local variations within Sichuan Province and the neighbouring Chongqing Municipality.Four sub-styles of Sichuan cuisine include Chongqing, Chengdu, Zigong and Buddhist vegetarian style."
             },
             {
                 "category": "cuisines",
                 "tag":["Vietnam"],
                 "title": "Flavors of Vietnam",
                 "image": "https://www.saveur.com/sites/saveur.com/files/styles/2000_1x_/public/vietnamese-pantry_2000x1500-3.jpg?itok=0y4WmLRy&fc=50,50",
-                "text":"Vietnamese cuisine encompasses the foods and beverages of Vietnam, and features a combination of five fundamental tastes the overall meal. Common ingredients include fish sauce, shrimp paste, soy sauce, rice, fresh herbs, fruit and vegetables. Vietnamese recipes use lemongrass, ginger, mint, Vietnamese mint, long coriander, Saigon cinnamon, bird's eye chili, lime, and Thai basil leaves.Traditional Vietnamese cooking is greatly admired for its fresh ingredients, minimal use of dairy and oil, complementary textures, and reliance on herbs and vegetables. With the balance between fresh herbs and meats and a selective use of spices to reach a fine taste, Vietnamese food is considered one of the healthiest cuisines worldwide"
-            },
+                "text":"Vietnamese cuisine features a combination of five fundamental tastes the overall meal. Common ingredients include fish sauce, shrimp paste, soy sauce, rice, fresh herbs, fruit and vegetables. Vietnamese recipes use lemongrass, ginger, mint, Vietnamese mint, long coriander, Saigon cinnamon, bird's eye chili, lime, and Thai basil leaves. With the balance between fresh herbs and meats and a selective use of spices, Vietnamese food is considered one of the healthiest cuisines worldwide"            },
             {
                 "category": "cuisines",
                 "tag":["America"],
@@ -42,6 +41,13 @@
                 "title":"McDonald's in the Middle East",
                 "image": "https://i.ytimg.com/vi/i0aFYLldJso/maxresdefault.jpg",
                 "text":"The McDonald's menu in the middle east contains the McArabia with either chicken or grilled Kofta."
+            },
+            {
+                "category": "feminine_fables",
+                "tag": ["women"],
+                "title": "Shortening the pay gap",
+                "image": "https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/743/cached.offlinehbpl.hbpl.co.uk/news/OMC/GenderPayGap-201803070107196681-20180404082357920.jpg",
+                "text": "Did you know that in 2016, women working full time in the United States typically were paid just 80 percent of what men were paid, a gap of 20 percent? The gap has narrowed since the 1970s, due largely to women’s progress in education and workforce participation and to men’s wages rising at a slower rate. At the rate of change between 1960 and 2016, women are expected to reach pay equity with men in 2059"
             },
             {
                 "category": "feminine_fables",
