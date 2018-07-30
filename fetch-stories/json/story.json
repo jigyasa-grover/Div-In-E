@@ -56,30 +56,6 @@
                 "text":"Many self-protection classes teach you to react to an attacker's actions. This defensive thinking can make you hesitate ('What is he going to do to me?'), lose focus (waiting to get hurt makes most people freeze), and ultimately be one step behind the attacker. In a threatening situation, don't worry about what he's doing; make him worry about what you're doing. Here are some self-defense tips you could use- https://www.youtube.com/watch?v=j_YOvLi06-0"
             },
             
-        
-            {
-                "category": "Ethnicity",
-                "tag":["Korean", "Filipino"],
-                "title": "Finding myself",
-                "image": "",
-                "text":"“Being Korean and Filipino, it’s hard for me to properly identify with both races. My parents were born in their respective countries, but they both grew up in the US. My dad doesn’t speak Korean at home, and my mom doesn’t speak Ilonggo. Our parents never taught my brothers or me these languages because they’re both fluent in English, so there was no need to. Not being able to speak either of these languages distances myself from the two cultures even further. Communicating with my grandma on my dad’s side is difficult, since she knows English but doesn’t speak it well. Unfortunately, this language barrier makes me feel less Korean. I know that languages I can or cannot speak don’t define who I am, but then again, language is a huge part of culture and can give you a sense of belonging, wherever you are. Visiting my dad’s side of the family, I never felt isolated, but I never felt like I truly belonged. I’m still juggling with these ideas in my head, but I’m fortunate to where I feel accepted in both my family and community.” — Isabel Suh, 9"
-            },
-
-            {    
-                "category": "Ethnicity",
-                "tag":["India"],
-                "title":"Langages India Speaks",
-                "image": "",
-                "text":"India has 100 languages, the first language being Hindi"
-            },
-
-            {
-                "category": "Folklore",
-                "tag":["India"],
-                "title":"Panchatantra",
-                "image": "",
-                "text":"The Panchatantra is a legendary collection of short stories from India. Originally composed in the 2nd century B.C, Panchatantra is believed to be written by Vishnu Sharma along with many other scholars. The purpose behind the composition was to implant moral values and governing skills in the young sons of the king. The ancient Sanskrit text boasts of various animal stories in verse and prose. During all these centuries, many authors and publishers worked hard to make these fables accessible and readable by a layman. The grand assortment has extraordinary tales that are liked, perhaps even loved by people of every age group."
-            },
             {
                 "category": "festivals",
                 "tag":["Brazil"],
@@ -124,23 +100,50 @@
                 "text": "TSet in and around the stilted villages of Inle Lake, the Phaung Daw Oo Pagoda Festival is one of the largest Buddhist festivals in Burma. The festival is held from the first day of the waxing moon to the third day after the full moon of Thadingyut: September and October in our western calendar."
             },
             
-
             {
-                "category": "Folklore",
+                "category": "folklore",
+                "tag":["India"],
+                "title":"Panchatantra",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61vzaEftQ1L._SX258_BO1,204,203,200_.jpg",
+                "text":"The Panchatantra is a legendary collection of short stories from India. Originally composed in the 2nd century B.C, Panchatantra is believed to be written by Vishnu Sharma along with many other scholars. The purpose behind the composition was to implant moral values and governing skills in the young sons of the king. The ancient Sanskrit text boasts of various animal stories in verse and prose. During all these centuries, many authors and publishers worked hard to make these fables accessible and readable by a layman. The grand assortment has extraordinary tales that are liked, perhaps even loved by people of every age group."
+            },
+            {
+                "category": "folklore",
                 "tag": ["Korea"],
                 "title": "Korean Goblins",
-                "image": "",
+                "image": "https://i.ytimg.com/vi/ORHxthzF_rE/maxresdefault.jpg",
                 "text":"Amongst the most prolific of supernatural beings in Korean folklore is the dokkaebi. Translating dokkaebi into the English word “goblin” can lead to misconceptions because in European folklore, goblins have a demonic or evil element to them; whereas dokkaebi do not.  Dokkaebi are creatures with supernatural powers and skills and have both negative and positive characteristics; they generally take pleasure in making humans happy, but at times are known to bring misery.  The role of dokkaebi in Korean folklore can’t be overstated – let’s put it this way: dokkaebi is to Koreans as leprechauns are to the Irish. The first written story of dokkaebi appeared in the Samguk Yusa (Memorabilia of the Three Kingdoms) in the tale “Lady Dohwa and Bachelor Bihyeong” 도화녀 비형랑 which takes place during the Silla dynasty. This tale is considered to be the first documented narrative of dokkaebi."
             },
-
-            {    
-                "category": "Education",
-                "tag":["First-gen"],
-                "title":"About first-gen students",
-                "image": "",
-                "text":"Even when the opportunity to go to college exists, many students still face obstacles. Often first-generation students need to work to help support their family, or care for younger siblings. They may have been given limited information about college application and costs, or attended schools with fewer resources and less access to higher level math, science and AP courses. While 30% of all the nation’s college students are first-generation, 24% are both first-generation and low-income."
+            {
+                "category": "folklore",
+                "tag": ["Arab"],
+                "title": "Arab Fairytales",
+                "image": "https://fairytalez.com/wp-content/uploads/2016/09/more-tales-from-the-arabian-nights-edward-william-lane-frances-william-olcott.jpg",
+                "text":"Arabic fairy tales were a source of entertainment and not tales for moral lessons and religious custom, unlike their European counterparts. The fairy tales are robust with themes of romance and magic that offered countless evenings of entertainment"
+            },
+            {
+                "category": "folklore",
+                "tag":["Africa"],
+                "title":"Anansi",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61vzaEftQ1L._SX258_BO1,204,203,200_.jpg",
+                "text":"African folklore tales about animal tricksters often describe how helpless creatures manage to outwit fierce animals. One of the most important animal tricksters of West African legends is Anansi, who acts on behalf of the sky god, Nyame."
+            },
+            {
+                "category": "folklore",
+                "tag": ["Irish"],
+                "title": "May Day in Ireland",
+                "image": "https://i0.wp.com/www.yourirish.com/wp-content/uploads/2017/04/feature-mayday-hag.png?zoom=2&resize=749%2C421&ssl=1",
+                "text":"One of the old customs of May Day in Ireland was to protect your home and heard of cows from the Cailleachs (hags or old women). These old hags would steal butter, milk, and even cows in the early morning of May Day."
+            },
+            {
+                "category": "folklore",
+                "tag": ["Arab"],
+                "title": "Arab Fairytales",
+                "image": "https://fairytalez.com/wp-content/uploads/2016/09/more-tales-from-the-arabian-nights-edward-william-lane-frances-william-olcott.jpg",
+                "text":"Arabic fairy tales were a source of entertainment and not tales for moral lessons and religious custom, unlike their European counterparts. The fairy tales are robust with themes of romance and magic that offered countless evenings of entertainment"
             }
-        
+            
+           
         ]
     
 }
