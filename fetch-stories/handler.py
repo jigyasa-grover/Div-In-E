@@ -37,5 +37,6 @@ def handle(req):
         if keep_story:
             result_story.append(story)
 
-    return json.dumps(result_story)
+    result_json = json.dumps(result_story);
+    return "%s(%s)" % (params["callback"][0], result_json)
             
