@@ -157,49 +157,49 @@
                 "image": "https://fairytalez.com/wp-content/uploads/2016/09/more-tales-from-the-arabian-nights-edward-william-lane-frances-william-olcott.jpg",
                 "text":"Arabic fairy tales were a source of entertainment and not tales for moral lessons and religious custom, unlike their European counterparts. The fairy tales are robust with themes of romance and magic that offered countless evenings of entertainment"
             },
-        {
-	"category": "Cultural Heroes",
-	"tag":["mythology"],
-	"title": "Noah: Abrahamic Mythology!",
-	"image": "https://upload.wikimedia.org/wikipedia/commons/9/92/NoahsSacrifice.JPG",
-	"text": "The primary account of Noah in the Bible is in the Book of Genesis. Noah was the tenth of the pre-flood (antediluvian) Patriarchs. His father was Lamech and his mother is unknown. When Noah was five hundred years old, he became the father of Shem, Ham and Japheth (Genesis 5:32).",
-},
-{
-    "category": "Cultural Heroes",
-    "tag":["mythology"],
-    "title": "Rishabhanatha: Hindu Mythology",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Photo_of_lord_adinath_bhagwan_at_kundalpur.JPG/440px-Photo_of_lord_adinath_bhagwan_at_kundalpur.JPG",
-    "text": "Rushabhanatha or Rishabhanatha (also Ṛṣabhadeva, Rushabhadeva, Rishabhadeva, or Ṛṣabha which literally means \"bull\") is the first Tirthankara (ford maker) in Jainism. Jain legends depict him as having lived millions of years ago. He was the first of twenty-four lords in the present half-cycle of time in Jain cosmology, and called a \"ford-maker\" because his teachings helped one across the sea of interminable rebirths and deaths (saṃsāra). He is also known as Ādinātha of Jainism which translates into \"First (Adi) Lord (nātha)\", as well as Adishvara (first ishvara), Yugadideva (deva of yuga), Prathamaraja (first king), and Nebheya (son of Nabhi). Along with Mahavira, Parshvanatha and Neminatha, Rishabhanatha is one of the four Tirthankaras that attract the most devotional worship among the Jains.",
-},
-{
-    "category": "Cultural Heroes",
-    "tag":["mythology"],
-    "title": "Ōkuninushi: Japanese Mythology",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/%C5%8Ckuninushi_Bronze_Statue.jpg/440px-%C5%8Ckuninushi_Bronze_Statue.jpg",
-    "text": "Ōkuninushi (大国主) is a divinity (kami) in Japanese Shinto. His name literally translates to \"Great Land Master\", and he is believed to be originally the ruler of Izumo Province, until he was replaced by Ninigi. In compensation, he was made ruler of the unseen world of spirits and magic. He is believed to be a god of nation-building, farming, business, and medicine.",
-},
-{
-    "category": "Cultural Heroes",
-    "tag":["mythology"],
-    "title": "Prometheus: Greek Mythology",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Prometheus_Adam_Louvre_MR1745_edit_atoma.jpg/600px-Prometheus_Adam_Louvre_MR1745_edit_atoma.jpg",
-    "text": "In Greek mythology, Prometheus is a Titan, culture hero, and trickster figure who is credited with the creation of man from clay, and who defies the gods by stealing fire and giving it to humanity, an act that enabled progress and civilization. Prometheus is known for his intelligence and as a champion of mankind.",
-},
-{
+            {
+                "category": "Cultural Heroes",
+                "tag":["mythology"],
+                "title": "Noah: Abrahamic Mythology!",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/NoahsSacrifice.JPG",
+                "text": "The primary account of Noah in the Bible is in the Book of Genesis. Noah was the tenth of the pre-flood (antediluvian) Patriarchs. His father was Lamech and his mother is unknown. When Noah was five hundred years old, he became the father of Shem, Ham and Japheth (Genesis 5:32)."
+            },
+            {
+                "category": "Cultural Heroes",
+                "tag":["mythology"],
+                "title": "Rishabhanatha: Hindu Mythology",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Photo_of_lord_adinath_bhagwan_at_kundalpur.JPG/440px-Photo_of_lord_adinath_bhagwan_at_kundalpur.JPG",
+                "text": "Rushabhanatha or Rishabhanatha (also Ṛṣabhadeva, Rushabhadeva, Rishabhadeva, or Ṛṣabha which literally means \"bull\") is the first Tirthankara (ford maker) in Jainism. Jain legends depict him as having lived millions of years ago. He was the first of twenty-four lords in the present half-cycle of time in Jain cosmology, and called a \"ford-maker\" because his teachings helped one across the sea of interminable rebirths and deaths (saṃsāra). He is also known as Ādinātha of Jainism which translates into \"First (Adi) Lord (nātha)\", as well as Adishvara (first ishvara), Yugadideva (deva of yuga), Prathamaraja (first king), and Nebheya (son of Nabhi). Along with Mahavira, Parshvanatha and Neminatha, Rishabhanatha is one of the four Tirthankaras that attract the most devotional worship among the Jains."
+            },
+            {
+                "category": "Cultural Heroes",
+                "tag":["mythology"],
+                "title": "Ōkuninushi: Japanese Mythology",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/%C5%8Ckuninushi_Bronze_Statue.jpg/440px-%C5%8Ckuninushi_Bronze_Statue.jpg",
+                "text": "Ōkuninushi (大国主) is a divinity (kami) in Japanese Shinto. His name literally translates to \"Great Land Master\", and he is believed to be originally the ruler of Izumo Province, until he was replaced by Ninigi. In compensation, he was made ruler of the unseen world of spirits and magic. He is believed to be a god of nation-building, farming, business, and medicine."
+            },
+            {
+                "category": "Cultural Heroes",
+                "tag":["mythology"],
+                "title": "Prometheus: Greek Mythology",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Prometheus_Adam_Louvre_MR1745_edit_atoma.jpg/600px-Prometheus_Adam_Louvre_MR1745_edit_atoma.jpg",
+                "text": "In Greek mythology, Prometheus is a Titan, culture hero, and trickster figure who is credited with the creation of man from clay, and who defies the gods by stealing fire and giving it to humanity, an act that enabled progress and civilization. Prometheus is known for his intelligence and as a champion of mankind."
+            },
+            {
 
-	"category": "Cultural Heroes",
-	"tag":["mythology"],
-	"title": "Noah: Abrahamic Mythology!",
-	"image": "https://upload.wikimedia.org/wikipedia/commons/9/92/NoahsSacrifice.JPG",
-	"text": "The primary account of Noah in the Bible is in the Book of Genesis. Noah was the tenth of the pre-flood (antediluvian) Patriarchs. His father was Lamech and his mother is unknown. When Noah was five hundred years old, he became the father of Shem, Ham and Japheth (Genesis 5:32).",
-},
-{
-    "category": "Cultural Heroes",
-    "tag":["mythology"],
-    "title": "Rishabhanatha: Hindu Mythology",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Photo_of_lord_adinath_bhagwan_at_kundalpur.JPG/440px-Photo_of_lord_adinath_bhagwan_at_kundalpur.JPG",
-    "text": "Rushabhanatha or Rishabhanatha (also Ṛṣabhadeva, Rushabhadeva, Rishabhadeva, or Ṛṣabha which literally means \"bull\") is the first Tirthankara (ford maker) in Jainism. Jain legends depict him as having lived millions of years ago. He was the first of twenty-four lords in the present half-cycle of time in Jain cosmology, and called a \"ford-maker\" because his teachings helped one across the sea of interminable rebirths and deaths (saṃsāra). He is also known as Ādinātha of Jainism which translates into \"First (Adi) Lord (nātha)\", as well as Adishvara (first ishvara), Yugadideva (deva of yuga), Prathamaraja (first king), and Nebheya (son of Nabhi). Along with Mahavira, Parshvanatha and Neminatha, Rishabhanatha is one of the four Tirthankaras that attract the most devotional worship among the Jains.",
-},
+                "category": "Cultural Heroes",
+                "tag":["mythology"],
+                "title": "Noah: Abrahamic Mythology!",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/NoahsSacrifice.JPG",
+                "text": "The primary account of Noah in the Bible is in the Book of Genesis. Noah was the tenth of the pre-flood (antediluvian) Patriarchs. His father was Lamech and his mother is unknown. When Noah was five hundred years old, he became the father of Shem, Ham and Japheth (Genesis 5:32)."
+            },
+            {
+                "category": "Cultural Heroes",
+                "tag":["mythology"],
+                "title": "Rishabhanatha: Hindu Mythology",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Photo_of_lord_adinath_bhagwan_at_kundalpur.JPG/440px-Photo_of_lord_adinath_bhagwan_at_kundalpur.JPG",
+                "text": "Rushabhanatha or Rishabhanatha (also Ṛṣabhadeva, Rushabhadeva, Rishabhadeva, or Ṛṣabha which literally means \"bull\") is the first Tirthankara (ford maker) in Jainism. Jain legends depict him as having lived millions of years ago. He was the first of twenty-four lords in the present half-cycle of time in Jain cosmology, and called a \"ford-maker\" because his teachings helped one across the sea of interminable rebirths and deaths (saṃsāra). He is also known as Ādinātha of Jainism which translates into \"First (Adi) Lord (nātha)\", as well as Adishvara (first ishvara), Yugadideva (deva of yuga), Prathamaraja (first king), and Nebheya (son of Nabhi). Along with Mahavira, Parshvanatha and Neminatha, Rishabhanatha is one of the four Tirthankaras that attract the most devotional worship among the Jains."
+            }
 
             
            
