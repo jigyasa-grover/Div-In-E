@@ -24,12 +24,13 @@
             },
         
             {
-                "category": "Self-Defense",
+                "category": "feminine-fables",
                 "tag":["Female"],
                 "title":"How to fight your own fight - Women",
                 "image": "http://www.sdsct.com/wp-content/uploads/2016/10/sdsct-kickboxing.jpg?quality=100.3015061321280",
                 "text":"Many self-protection classes teach you to react to an attacker's actions. This defensive thinking can make you hesitate ('What is he going to do to me?'), lose focus (waiting to get hurt makes most people freeze), and ultimately be one step behind the attacker. In a threatening situation, don't worry about what he's doing; make him worry about what you're doing. Here are some self-defense tips you could use- https://www.youtube.com/watch?v=j_YOvLi06-0"
             },
+            
         
             {
                 "category": "Ethnicity",
@@ -56,6 +57,7 @@
                 "category": "festivals",
                 "tag":["Brazil"],
                 "title": "Rio de Janeiro",
+                "image":"https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjog5-hxsXcAhXFIjQIHZi5C-EQjRx6BAgBEAU&url=http%3A%2F%2Fwww.riohunter.com%2Fcarnival-rio-de-janeiro%2F&psig=AOvVaw1oeu7v12iRBY1jCRcMQZDa&ust=1532996162885263",
                 "text": "The Carnival in Rio de Janeiro is a festival held every year before Lent and considered the biggest carnival in the world with two million people per day on the streets. Dating back to 1723, it is celebrated in honour of the gods and to respect the great waters. The typical Rio carnival parade is filled with revelers, floats, and adornments from numerous samba schools which are located in Rio (more than 200 approximately, divided into five leagues/divisions). A samba school is composed of a collaboration of local neighbours that want to attend the carnival together, with some kind of regional, geographical and common background."
             },
 
@@ -63,8 +65,38 @@
                 "category": "festivals",
                 "tag":["France"],
                 "title":"Cirque de Demain, Paris",
+                "image":"https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjSzuW4xsXcAhWnHTQIHdz1Dt4QjRx6BAgBEAU&url=https%3A%2F%2Fen.parisinfo.com%2Fparis-show-exhibition%2F140297%2Fcirque-bouglione&psig=AOvVaw2SE_fMpGYCw6p7DWuzcoW2&ust=1532996216702384",
                 "text":"Once a year, circus actors from the best circus schools in the world compete at the Circus of Tomorrow under the Big Top of the Cirque Phénix according to age groups and professions. The new, young talented discovered here will be the famous artists of tomorrow. The great crowds of spectators enjoy the animal trainers, clowns, acrobats and jugglers who perform in both traditional and modern acts. This is a marvellous experience for the whole family. The 39th festival took place from 1 to 4 January 2018."
             },
+            {
+                "category": "festivals",
+                "tag":["Japan"],
+                "title": "The festival of Lanterns",
+                "image":"https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwir4frJxsXcAhXJGTQIHXHfCNQQjRx6BAgBEAU&url=https%3A%2F%2Fwww.emaze.com%2F%40ACOFQOTQ%2FChinese-lantern-festival&psig=AOvVaw0yYzS6NT0pUBtmvfDvvjDl&ust=1532996349901169",
+                "text": "The Obon Festival lasts for three days across Japan, usually in August. It is a Buddhist festival to commemorate one's ancestors and is celebrated through Bon Odori dances and a giant bonfire lit in the hills of Kyoto"
+            },
+            {
+                "category": "festivals",
+                "tag":["Bhtuan"],
+                "title": "Tsechus",
+                "image":"https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjukJTXxsXcAhUzIjQIHc1rB8kQjRx6BAgBEAU&url=http%3A%2F%2Fwww.cleverbhutan.com%2Fpackages%2Fparo-tsechu%2F&psig=AOvVaw1gZU4tCKEYG59pIehNw7tC&ust=1532996378955295",
+                "text": "Tsechus are a wonderful way to experience and gain an insight into this unique culture. Whether visiting a large festival or a smaller, more intimate tsechu you will be thrilled with a captivating mix of sound, colour and atmosphere. These large festivals are extremely popular so it is worth planning 9 to 12 months in advance."
+            },
+            {
+                "category": "festivals",
+                "tag":["Sri Lanka"],
+                "title": "Perahera Festival",
+                "image":"https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjYgtTzxsXcAhXlGjQIHWVGA8IQjRx6BAgBEAU&url=https%3A%2F%2Flanka.com%2Fevents%2Fkandy-esala-perahera%2F&psig=AOvVaw0DgGgP9gCm0tSHnTkEXXTr&ust=1532996419765347",
+                "text": "The Escala Perahera Festival in Kandy, which happens every August, is the most famous of Sri Lanka's colourful celebrations. The country's most sacred relic, one of Buddha's teeth, is normally kept enshrined within the town's Dalada Maligawa temple but during the festival it is paraded around the streets with much fanfare. The festival lasts ten days."
+            },
+            {
+                "category": "festivals",
+                "tag":["Burma"],
+                "title": "Phaung Daw Oo Pagoda Festival",
+                "image":"https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjWx6XDx8XcAhWK7Z8KHT1DBI0QjRx6BAgBEAU&url=https%3A%2F%2Fwww.renown-travel.com%2Fburma%2Finlelake%2Fphaungdawoo.html&psig=AOvVaw1R-_FHFe3IeCWuhr4zbgCk&ust=1532996603567146",
+                "text": "TSet in and around the stilted villages of Inle Lake, the Phaung Daw Oo Pagoda Festival is one of the largest Buddhist festivals in Burma. The festival is held from the first day of the waxing moon to the third day after the full moon of Thadingyut: September and October in our western calendar."
+            },
+            
 
             {
                 "category": "Folklore",
