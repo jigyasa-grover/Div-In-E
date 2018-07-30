@@ -23,7 +23,7 @@ def handle(req):
 
     category_id = meetup_categories[category]
     if category == "culture":
-        r = requests.get("https://api.meetup.com/find/groups?photo-host=public&page=16&text=india&sig_id=256722888&category=10%2C16&sig=a6f8e700fcd6a2cf073e7a10fcbd1c6043f30de5")
+        r = requests.get("https://api.meetup.com/find/groups?photo-host=public&page=16&text=women&sig_id=256722888&category=10%2C16&sig=a0ca77ee1dce3986f1613939f0841f9daca3317e")
     elif category == "wellbeing":
         r = requests.get("https://api.meetup.com/find/groups?photo-host=public&page=16&text=women&sig_id=256722888&category=9%2C14&sig=1d0890ae2bdab37ba97e1932ee8329e7ee783caa")
     elif category == "pride":
