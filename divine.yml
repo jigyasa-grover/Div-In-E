@@ -14,7 +14,11 @@ functions:
     lang: python3
     handler: ./fetch-stories
     image: fetch-stories
+    environment:
+      content_type: application/json
   find-groups:
     lang: python3
     handler: ./find-groups
     image: find-groups
+    environment:
+      content_type: application/json

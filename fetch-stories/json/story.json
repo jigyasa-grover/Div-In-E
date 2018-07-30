@@ -22,7 +22,31 @@
                 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDzKomKj8r2aqW279FKUWvVxTx9cc38FoKlPSOJJgCWXhlwC6U",
                 "text":"Rolling pastures and bright skies make for happy cows. The Golden State is the United States' #1 dairy producer, churning out tons of butter, milk, and, of course, ice cream each year. Better yet: 99% of California dairy farms are family owned!"
             },
-        
+
+            {
+                "category": "cuisines",
+                "tag":["America"],
+                "title":"Californian Dairy",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDzKomKj8r2aqW279FKUWvVxTx9cc38FoKlPSOJJgCWXhlwC6U",
+                "text":"Rolling pastures and bright skies make for happy cows. The Golden State is the United States' #1 dairy producer, churning out tons of butter, milk, and, of course, ice cream each year. Better yet: 99% of California dairy farms are family owned!"
+            },
+
+            {
+                "category": "cuisines",
+                "tag":["America"],
+                "title":"Californian Dairy",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDzKomKj8r2aqW279FKUWvVxTx9cc38FoKlPSOJJgCWXhlwC6U",
+                "text":"Rolling pastures and bright skies make for happy cows. The Golden State is the United States' #1 dairy producer, churning out tons of butter, milk, and, of course, ice cream each year. Better yet: 99% of California dairy farms are family owned!"
+            },
+
+            {
+                "category": "cuisines",
+                "tag":["America"],
+                "title":"Californian Dairy",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDzKomKj8r2aqW279FKUWvVxTx9cc38FoKlPSOJJgCWXhlwC6U",
+                "text":"Rolling pastures and bright skies make for happy cows. The Golden State is the United States' #1 dairy producer, churning out tons of butter, milk, and, of course, ice cream each year. Better yet: 99% of California dairy farms are family owned!"
+            },
+
             {
                 "category": "feminine-fables",
                 "tag":["Female"],
@@ -43,15 +67,17 @@
             {    
                 "category": "Ethnicity",
                 "tag":["India"],
-                "title":"The Mother of All Languages",
-                "text":"INot only most of the Indian languages but the languages in the world are said to have evolved from Sanskrit. Sanskrit is the mother of the Romani language; the language of the Romani people, too. Though Sanskrit did not give birth to the South Indian languages including Telugu, Malayalam, Tamil and Kannada, but supported their evolution by contributing to their vocabulary as a foster mother. Here is a good resource to learn Sanskrit- http://knowledge-cess.com/learning-sanskrit-from-home-the-best-mobile-app-for-learning-sanskrit/"
+                "title":"Langages India Speaks",
+                "image": "",
+                "text":"India has 100 languages, the first language being Hindi"
             },
 
             {
                 "category": "Folklore",
                 "tag":["India"],
-                "title":"India's Folklore",
-                "text":"The folklore of India compasses the folklore of the nation of India and the Indian subcontinent. India is an ethnically and religiously diverse country. Given this diversity, it is difficult to generalize widely about the folklore of India as a unit. Although India is a Hindu-majority country, with more than three-fourths of the population identifying themselves as Hindus, there is no single, unified, and all-pervading concept of identity present in it."
+                "title":"Panchatantra",
+                "image": "",
+                "text":"The Panchatantra is a legendary collection of short stories from India. Originally composed in the 2nd century B.C, Panchatantra is believed to be written by Vishnu Sharma along with many other scholars. The purpose behind the composition was to implant moral values and governing skills in the young sons of the king. The ancient Sanskrit text boasts of various animal stories in verse and prose. During all these centuries, many authors and publishers worked hard to make these fables accessible and readable by a layman. The grand assortment has extraordinary tales that are liked, perhaps even loved by people of every age group."
             },
             {
                 "category": "festivals",
@@ -66,8 +92,6 @@
                 "tag":["France"],
                 "title":"Cirque de Demain, Paris",
                 "image":"https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjSzuW4xsXcAhWnHTQIHdz1Dt4QjRx6BAgBEAU&url=https%3A%2F%2Fen.parisinfo.com%2Fparis-show-exhibition%2F140297%2Fcirque-bouglione&psig=AOvVaw2SE_fMpGYCw6p7DWuzcoW2&ust=1532996216702384",
-                "text":"Once a year, circus actors from the best circus schools in the world compete at the Circus of Tomorrow under the Big Top of the Cirque Phénix according to age groups and professions. The new, young talented discovered here will be the famous artists of tomorrow. The great crowds of spectators enjoy the animal trainers, clowns, acrobats and jugglers who perform in both traditional and modern acts. This is a marvellous experience for the whole family. The 39th festival took place from 1 to 4 January 2018."
-            },
             {
                 "category": "festivals",
                 "tag":["Japan"],
@@ -102,6 +126,7 @@
                 "category": "Folklore",
                 "tag": ["Korea"],
                 "title": "Korean Goblins",
+                "image": "",
                 "text":"Amongst the most prolific of supernatural beings in Korean folklore is the dokkaebi. Translating dokkaebi into the English word “goblin” can lead to misconceptions because in European folklore, goblins have a demonic or evil element to them; whereas dokkaebi do not.  Dokkaebi are creatures with supernatural powers and skills and have both negative and positive characteristics; they generally take pleasure in making humans happy, but at times are known to bring misery.  The role of dokkaebi in Korean folklore can’t be overstated – let’s put it this way: dokkaebi is to Koreans as leprechauns are to the Irish. The first written story of dokkaebi appeared in the Samguk Yusa (Memorabilia of the Three Kingdoms) in the tale “Lady Dohwa and Bachelor Bihyeong” 도화녀 비형랑 which takes place during the Silla dynasty. This tale is considered to be the first documented narrative of dokkaebi."
             },
 
@@ -109,6 +134,7 @@
                 "category": "Education",
                 "tag":["First-gen"],
                 "title":"About first-gen students",
+                "image": "",
                 "text":"Even when the opportunity to go to college exists, many students still face obstacles. Often first-generation students need to work to help support their family, or care for younger siblings. They may have been given limited information about college application and costs, or attended schools with fewer resources and less access to higher level math, science and AP courses. While 30% of all the nation’s college students are first-generation, 24% are both first-generation and low-income."
             }
         
