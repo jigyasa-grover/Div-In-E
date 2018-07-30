@@ -53,9 +53,57 @@
                 "tag":["Female"],
                 "title":"How to fight your own fight - Women",
                 "image": "http://www.sdsct.com/wp-content/uploads/2016/10/sdsct-kickboxing.jpg?quality=100.3015061321280",
-                "text":"Many self-protection classes teach you to react to an attacker's actions. This defensive thinking can make you hesitate ('What is he going to do to me?'), lose focus (waiting to get hurt makes most people freeze), and ultimately be one step behind the attacker. In a threatening situation, don't worry about what he's doing; make him worry about what you're doing. Here are some self-defense tips you could use- https://www.youtube.com/watch?v=j_YOvLi06-0"
+                "text": "Many self-protection classes teach you to react to an attacker's actions. This defensive thinking can make you hesitate ('What is he going to do to me?'), lose focus (waiting to get hurt makes most people freeze), and ultimately be one step behind the attacker. In a threatening situation, don't worry about what he's doing; make him worry about what you're doing. Here are some self-defense tips you could use- https://www.youtube.com/watch?v=j_YOvLi06-0"
             },
+
+            {
+                "category": "feminine-fables",
+                "tag":["Female"],
+                "title":"First female entrepreneur was African American !",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Madam_CJ_Walker_face_circa_1914.jpg",
+                "text": "Sarah Breedlove (December 23, 1867 – May 25, 1919), known as Madam C. J. Walker, was an African-American entrepreneur, philanthropist, and a political and social activist. Eulogized as the first female self-made millionaire in the United States, she became one of the wealthiest self-made women in America and wealthiest African-American women in the country and one of the most successful women and African-American business owners ever. Walker made her fortune by developing and marketing a line of beauty and hair products for black women through Madame C.J. Walker Manufacturing Company, the successful business she founded. Walker was also known for her philanthropy and activism. She made financial donations to numerous organizations and became a patron of the arts. Villa Lewaro, Walker's lavish estate in Irvington-on-Hudson, New York, served as a social gathering place for the African-American community."
+            },
+            {
+                "category": "feminine-fables",
+                "tag":["Latina", "Female"],
+                "title": "Latina Who Has Changed the World!",
+                "image": "http://www.latina.com/sites/default/files/maria_elena_salinas.jpg",
+                "text": "Maria Elena Salinas was the longest running female news anchor on U.S. television and the first Latina to recieve a Lifetime Achievement Emmy. Salinas used her platform to shed light on various Latino issues including unaccompanied immigrant children. She actively works to increase voter registration in the Latino community and works to help Latino youth become journalists. Since leaving Univision, Salinas is working on the second season of her English-language series, \"The Real Story with Maria Elena Salinas,\" on the Investigation Discovery network."
+            },
+            {
+                "category": "Ethinicity",
+                "tag":["Japanese"],
+                "title": "The Takei Way !",
+                "image": "https://www.advocate.com/sites/advocate.com/files/2016/12/20/george_takei_approvedx750.jpeg",
+                "text": "In this It Got Better video George talks about his family’s interment in an Arkansas camp because of his family being Japanese American. He also discusses how his time in Stark Trek also overlapped with the famous Stonewall Inn riots, about how because of wanting to preserve his career he stayed in the closet, and how his life became immeasurably more free and authentic when, albeit in later life, he was able to publicly come out as a gay man and help to contribute to California’s fight for marriage equality. Since that time, George Takei has been a leading advocate fighting against odious anti-gay legislation like Tennessee’s Don’t Say Gay bills, and campaigning for awareness on what really happened to Japanese Americans after Pearl Harbor. You can hear more about George’s incredible life so far here: https://youtu.be/oWL3xmjhC3c"
+            },
+<<<<<<< HEAD
             
+=======
+            {
+                "category": "Ethnicity",
+                "tag":["Korean", "Filipino"],
+                "title": "Finding myself",
+                "image": "",
+                "text":"“Being Korean and Filipino, it’s hard for me to properly identify with both races. My parents were born in their respective countries, but they both grew up in the US. My dad doesn’t speak Korean at home, and my mom doesn’t speak Ilonggo. Our parents never taught my brothers or me these languages because they’re both fluent in English, so there was no need to. Not being able to speak either of these languages distances myself from the two cultures even further. Communicating with my grandma on my dad’s side is difficult, since she knows English but doesn’t speak it well. Unfortunately, this language barrier makes me feel less Korean. I know that languages I can or cannot speak don’t define who I am, but then again, language is a huge part of culture and can give you a sense of belonging, wherever you are. Visiting my dad’s side of the family, I never felt isolated, but I never felt like I truly belonged. I’m still juggling with these ideas in my head, but I’m fortunate to where I feel accepted in both my family and community.” — Isabel Suh, 9"
+            },
+
+            {    
+                "category": "Ethnicity",
+                "tag":["India"],
+                "title":"Langages India Speaks",
+                "image": "",
+                "text":"India has 100 languages, the first language being Hindi"
+            },
+
+            {
+                "category": "Folklore",
+                "tag":["India"],
+                "title":"Panchatantra",
+                "image": "",
+                "text":"The Panchatantra is a legendary collection of short stories from India. Originally composed in the 2nd century B.C, Panchatantra is believed to be written by Vishnu Sharma along with many other scholars. The purpose behind the composition was to implant moral values and governing skills in the young sons of the king. The ancient Sanskrit text boasts of various animal stories in verse and prose. During all these centuries, many authors and publishers worked hard to make these fables accessible and readable by a layman. The grand assortment has extraordinary tales that are liked, perhaps even loved by people of every age group."
+            },
+>>>>>>> d4c5f56438f83d854db47df44ba7921f1d87bb96
             {
                 "category": "festivals",
                 "tag":["Brazil"],
@@ -147,5 +195,3 @@
         ]
     
 }
-
-
